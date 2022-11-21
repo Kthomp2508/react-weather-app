@@ -18,7 +18,7 @@ function App() {
       </h4>
       <Forecast />
       <br/>
-    <p className="text-center"><a href="https://github.com/Kthomp2508/react-weather-app">Open-sourced on GitHub</a> by Kathleen Thompson</p>
+    <p className="text-center"><a href="https://github.com/Kthomp2508/react-weather-app" target="_blank" rel="noreferrer">Open-sourced on GitHub</a> by Kathleen Thompson</p>
     </div>
   );
 }
